@@ -1,5 +1,5 @@
   
-var score = 0;0
+var score = 0;
 var numTiles = 25;
 var tileCounter = 0;
 var chestCount = 0;
